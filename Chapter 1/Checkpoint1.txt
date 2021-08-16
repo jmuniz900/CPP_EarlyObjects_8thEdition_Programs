@@ -1,0 +1,86 @@
+Checkpoints from Chapter 1
+---------------------------------------------------------------------------------------------------
+1: Why is the computer used by so many different people, in so many different positions?
+
+      The computer is used by so many different people in very different positions because of the versatility that it brings
+      to all those positions. It makes life a lot simpler in all of those positions because of the applications programmers
+      make.
+---------------------------------------------------------------------------------------------------
+2: List the five major hardware components of a computer system.
+
+      CPU, Memory (RAM), Input & Output devices, & secondary storage devices
+---------------------------------------------------------------------------------------------------
+3: Internally, the CPU consists of what two units?
+
+    The CPU consists of both the Arithmetic and Logical Unit (ALU) & the Control units
+---------------------------------------------------------------------------------------------------
+4: Describe the steps in the fetch/decode/execute cycle.
+
+    Fetch consists of fetching instructions from the program to run.
+    Decode is exactly what it means: decoding the programs instructions into low level instructions for the computer to understand
+    Execute also is exactly what it means: execute the code to allow the program to run the command.
+---------------------------------------------------------------------------------------------------
+5: What is a memory address? What is its purpose?
+
+    A memory address contains information crucial to the user. Inside a single block of a memory address contains a byte of data &
+    that byte of data has 8 bits that translate to information. Its purpose is to just store information.
+---------------------------------------------------------------------------------------------------
+6: Explain why computers have both main memory and secondary storage.
+
+    Main memory collects only instances of data being collected from a certain program. Secondary storage stores the data that the user
+    wishes to maintain in the system. In other words, the main memory uses RAM to pull up data in random parts of the memory then deletes
+    it after the system is shut down, whereas secondary storage doesn't erase data that the user saved.
+---------------------------------------------------------------------------------------------------
+7: What are the two general categories of software?
+
+    There's System Software & Application Software.
+    System Software is everything essential to running the basic parts of a computer, like the operating system, utilities, etc.
+    Application Software is everything else that the user downloads to be able to use the computer to do the user's task.
+---------------------------------------------------------------------------------------------------
+8: What fundamental set of programs controls the internal operations of the computer's hardware?
+
+    The operating system, utility programs, and the software development tools.
+---------------------------------------------------------------------------------------------------
+9: What do you call a program that performs a specialized task, such as a virus scanner, a file-compression program, or a data-backup program?
+
+    Most of those listed are utility programs that help the computer run efficiently & safeguards against attacks.
+---------------------------------------------------------------------------------------------------
+10: Word processing programs, spreadsheet programs, e-mail programs, Web browsers, and game programs belong to what category of software?
+
+    Those are all application software, designed to be used specifically by the user to help them make their life easier.
+---------------------------------------------------------------------------------------------------
+11: What is an algorithm?
+
+    Algorithms are generalized instructions to allow a programmer or mathematician to solve a set of problems.
+---------------------------------------------------------------------------------------------------
+12: Why were computer programming languages invented?
+
+    Computer programming languages were invented to allow the programmer to write high level languages that the computer can then translate
+    to low level language. Low level languages make programming a lot more difficult.
+---------------------------------------------------------------------------------------------------
+13: What is the difference between a high-level language and a low-level language?
+
+    A high level language is easily understandable to humans and consists of actual human language.
+    A low level language is mostly language understandable to computers, such as binary code or the assembly language.
+---------------------------------------------------------------------------------------------------
+14: What does portability mean?
+
+    Portability means that the software that a programmer created is able to be ran in different operating systems, such as being able to run a program specifically
+    created for Windows in the macOS operating system too.
+---------------------------------------------------------------------------------------------------
+15: Explain the operations carried out by the preprocessor, compiler, and linker.
+
+    The preprocessor looks for special characters, commands, or directives that helps process the source code
+    The compiler uses this to change all the processed lines from the preprocessor to low level code.
+    The linker links the low level language to any run-time libraries that the source code used to be able to use the same libraries in the low level file.
+---------------------------------------------------------------------------------------------------
+16: Explain what is stored in a source file, an object file, and an executable file.
+
+    Source file contains all the high level code that the programmer wrote in the specified language.
+    Object file contains all the low level instructions that the computer translated from the source file.
+    Executable file is the object file linked with the library that can be executed to do the desired task that the programmer programmed it to do.
+---------------------------------------------------------------------------------------------------
+17: What is an integrated development environment?
+
+    An integrated development environment (IDE) is a package that contains a text editor, compiler, and linker. Can easily run programs with a press
+    of a single button. Examples include Microsoft Visual Studio, Anaconda, PyCharm, & Xcode
